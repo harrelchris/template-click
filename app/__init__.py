@@ -1,1 +1,1 @@
-from app.commands import cli
+from app.commands import cli  # noqa: F401
