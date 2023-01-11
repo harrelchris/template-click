@@ -1,4 +1,16 @@
+# Directories
+.data/
 .idea/
+.mypy_cache/
+.pytest_cache/
+.reports/
+.tox/
 .venv/
 __pycache__/
+venv/
 *.egg-info/
+
+# Files
+.coverage
+.env
+*.sqlite3
