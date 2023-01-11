@@ -18,3 +18,6 @@ pip install -r requirements-dev.txt
 
 :: Install app as cli tool
 pip install -e .
+
+:: Install pre-commit
+pre-commit install
